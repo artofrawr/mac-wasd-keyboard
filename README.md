@@ -1,2 +1,5 @@
 # mac-wasd-keyboard
-A modern mac keyboard layout for a mechanical WASD V2 keyboard.
+
+This is a custom WASD V2 Keyboard layout for Mac computers.
+
+![Preview](https://raw.github.com/artofrawr/mac-wasd-keyboard/master/custom-mac-layout.png)
