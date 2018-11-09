@@ -5,7 +5,7 @@ This is a custom WASD V2 Keyboard layout for Mac computers.
 ## How To
 1. Download the `custom-mac-layout.ai` file from this repository.
 2. Feel free to modify it to fit your needs.
-3. Go to [the WASD Keyboards store](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-87-key-custom-mechanical-keyboard.html) and upload your .ai layout file.
+3. Go to the [WASD Keyboards](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-87-key-custom-mechanical-keyboard.html) site and upload your .ai layout file.
 4. To map the special keys to their functions install [Karabiner](https://pqrs.org/osx/karabiner/).
 5. Copy my settings file [karabiner.json](https://github.com/artofrawr/dotfiles/blob/master/osx/karabiner.json) to `/Users/YOURUSERNAME/.config/karabiner/karabiner.json`
 
