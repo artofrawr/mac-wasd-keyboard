@@ -2,7 +2,7 @@
 
 This is a custom WASD V2 Keyboard layout for Mac computers.
 
-# How To
+## How To
 1. Download the `custom-mac-layout.ai` file from this repository.
 2. Feel free to modify it to fit your needs.
 3. Go to [the WASD Keyboards store](http://www.wasdkeyboards.com/index.php/products/mechanical-keyboard/wasd-v2-87-key-custom-mechanical-keyboard.html) and upload your .ai layout file.
